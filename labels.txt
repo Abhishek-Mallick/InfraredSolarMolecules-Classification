@@ -1,0 +1,12 @@
+0 Cell
+1 Cell-Multi
+2 Cracking
+3 Diode
+4 Diode-Multi
+5 Hot-Spot
+6 Hot-Spot-Multi
+7 No-Anomaly
+8 Offline-Module
+9 Shadowing
+10 Soiling
+11 Vegetation
