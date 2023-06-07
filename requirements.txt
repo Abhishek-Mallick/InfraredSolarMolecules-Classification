@@ -10,6 +10,7 @@ distlib==0.3.6
 executing==1.2.0
 opencv-python
 filelock==3.12.0
+libgl1-mesa-glx
 flatbuffers==23.5.26
 gast==0.4.0
 google-auth==2.19.1
